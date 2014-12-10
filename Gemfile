@@ -15,6 +15,7 @@ gem 'coffee-rails', '~> 4.0.0'
 
 # Use ActiveModel has_secure_password
 gem 'bcrypt-ruby', '~> 3.0.0'
+gem "binding_of_caller"
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
